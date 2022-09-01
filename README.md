@@ -2,6 +2,8 @@
  A bunch of mods that the Railroad Radio crew have tested quite thoroughly and play really well together.
 
  Wanted to create a modpack where I could do version control for mod updates, and only upgrade when versions are compatible. Specifically so that when I do find a working version upgrade, I don't have to walk every single person through which mods to upgrade.
+## Version 0.1.3 - removing FFC
+  FFC is breaking other card packs because it uses an older version of class manager, removing it.
 
 ### Version 0.1.2 - Upgrading to versions
   Removed DullNevCards, added MadCards. Upgraded everything to most recent.
