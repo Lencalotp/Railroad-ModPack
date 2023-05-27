@@ -30,7 +30,7 @@ Replace everything above this line with the contents of the .cfg you downloaded.
 
 Now all of the cards I have disabled should also be disabled for you when you boot up rounds.
 
-###Version 0.2.0
+### Version 0.2.0
   Removing some card packs we always have disabled
 
   Uploading my config for cards and maps
